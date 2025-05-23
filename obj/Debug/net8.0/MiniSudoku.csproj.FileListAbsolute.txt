@@ -12,3 +12,4 @@ C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.
 C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\MiniSudoku.pdb
 C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\MiniSudoku.genruntimeconfig.cache
 C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\ref\MiniSudoku.dll
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\MiniSudoku.sourcelink.json
