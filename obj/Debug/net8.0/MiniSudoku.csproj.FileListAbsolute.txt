@@ -1,0 +1,14 @@
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\bin\Debug\net8.0\MiniSudoku.exe
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\bin\Debug\net8.0\MiniSudoku.deps.json
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\bin\Debug\net8.0\MiniSudoku.runtimeconfig.json
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\bin\Debug\net8.0\MiniSudoku.dll
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\bin\Debug\net8.0\MiniSudoku.pdb
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\MiniSudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\MiniSudoku.AssemblyInfoInputs.cache
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\MiniSudoku.AssemblyInfo.cs
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\MiniSudoku.csproj.CoreCompileInputs.cache
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\MiniSudoku.dll
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\refint\MiniSudoku.dll
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\MiniSudoku.pdb
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\MiniSudoku.genruntimeconfig.cache
+C:\Users\Esmith.DESKTOP-OLCH1EB\Desktop\CSE310\Sudoku\MiniSudoku\obj\Debug\net8.0\ref\MiniSudoku.dll
