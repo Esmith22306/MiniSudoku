@@ -15,13 +15,14 @@ class Program
             Console.WriteLine("No game statistics found.");
             return;
         }
-
+        // Initilize tracking variables 
         string[] lines = File.ReadAllLines(filePath);
         int totalGames = 0;
         int completedGames = 0;
         int bestMoves = int.MaxValue;
         TimeSpan fastestTime = TimeSpan.MaxValue;
 
+        // Count total games and extract only from completed ones
         foreach (string line in lines)
         {
             totalGames++;
@@ -54,7 +55,7 @@ class Program
                 }
             }
         }
-
+        //Print results
         Console.WriteLine("===== Game Stats Summary =====");
         Console.WriteLine($"Total games played: {totalGames}");
         Console.WriteLine($"Completed games: {completedGames}");
