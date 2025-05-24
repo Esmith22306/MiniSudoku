@@ -1,9 +1,14 @@
 ﻿using System;
+using System.Diagnostics;
+
 
 class Program
 {
     static void Main()
     {
+        // variable to capture when the game starts
+        Stopwatch stopwatch = Stopwatch.StartNew();
+
         //Calls sudokuGenerator to create a partially filled 4x4 board 
         int[,] puzzle = SudokuGenerator.GeneratePuzzle(7); // generate 6 blanks
         MiniSudoku game = new MiniSudoku(puzzle);
@@ -15,6 +20,10 @@ class Program
         //Main Game loop
         while (playing)
         {
+            // Timer function
+            TimeSpan elapsed = stopwatch.Elapsed;
+            Console.WriteLine($"Time Elapsed: {elapsed.Minutes:D2}:{elapsed.Seconds:D2}");
+
             //Show current board using method from the MiniSudoku Class
             game.PrintBoard();
             // User Prompt
@@ -36,7 +45,9 @@ class Program
                 }
                 else if (game.CheckSolution())
                 {
+                    TimeSpan totalTime = stopwatch.Elapsed;
                     Console.WriteLine("Congratulations! Your solution is valid!");
+                    Console.WriteLine($"Total time: {totalTime.Minutes:D2}:{totalTime.Seconds:D2}");
                     playing = false;
                 }
                 else
