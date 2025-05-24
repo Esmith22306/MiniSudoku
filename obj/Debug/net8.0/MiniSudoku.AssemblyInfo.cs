@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniSudoku")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a9095589bd9c695d1313acf29d3c989cb46d052")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c80fb8040d9d51f1afd3ffff2ac167516f03a738")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniSudoku")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniSudoku")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
