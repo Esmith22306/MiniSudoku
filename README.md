@@ -7,7 +7,7 @@ The game allows players to select a difficulty level, fill in the Sudoku board u
 
 I created this software to practice working with classes, structures, file I/O, string parsing, and control flow, while also reinforcing principles of user interaction and problem-solving in game logic.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/712hCbxK3cY)
 
 # Development Environment
 
